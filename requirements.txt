@@ -1,5 +1,5 @@
 alembic==1.2.1
-authlib==0.12.1
+authlib==1.6.12
 faker==2.0.3
 Flask-Caching==1.7.2
 flask-marshmallow==0.10.1
